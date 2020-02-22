@@ -15,6 +15,6 @@ This is intended as a quick reference and showcase, that summarizes all the HTML
 [Formatting](#formatting)   
 [Youtube Videos](#videos) 
 
-## Headers
+## Headers <a name="headers"/>
 TODO: Update this later!
 
