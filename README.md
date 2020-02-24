@@ -16,6 +16,7 @@ This is intended as a quick reference and showcase, that summarizes all the HTML
 [Youtube Videos](#videos) 
 
 ## Headers <a name="headers"/>
+**Tags:** 
 ```
 . Heading 1: <h1>...</h1>
 . Heading 2: <h2>...</h2>
@@ -26,6 +27,11 @@ This is intended as a quick reference and showcase, that summarizes all the HTML
 . Horizontal line: <hr>
 ```
 
+**Important Notes:** 
+- Do not use heading tags to resize text, use CSS `font-size` property instead.
+- Always start from `<h1>`, never skip heading levels.
+- Should use only one `<h1>` per page for best practice (and for SEO purpose).
+
 ## Paragraphs <a name="paragraphs"/>
 ```
 . Paragraph: <p>...</p>
@@ -33,4 +39,4 @@ This is intended as a quick reference and showcase, that summarizes all the HTML
 ```
 ## References:
 - https://www.w3schools.com/html/default.asp
-
+- https://developer.mozilla.org/en-US/docs/Web/HTML
