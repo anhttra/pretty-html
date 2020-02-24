@@ -43,6 +43,22 @@ This is intended as a quick reference and showcase, that summarizes all the HTML
 - The end tag can be omitted if the `<p>` element is immediately followed by some tags, such as: `<address>, <article>, <aside>, <blockquote>, <div>` ...
 
 
+## Emphasis <a name="emphasis"/>
+
+## Lists <a name="lists"/>
+
+## Links <a name="link"/>
+
+## Images <a name="images"/>
+
+## Tables <a name="tables"/>
+
+## Blockquotations <a name="blockquotations"/>
+
+## Formatting <a name="formatting"/>
+
+## Youtube Videos <a name="videos"/>
+
 ## References:
 - https://www.w3schools.com/html/default.asp
 - https://developer.mozilla.org/en-US/docs/Web/HTML
