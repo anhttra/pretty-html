@@ -33,10 +33,18 @@ This is intended as a quick reference and showcase, that summarizes all the HTML
 - Should use only one `<h1>` per page for best practice (and for SEO purpose).
 
 ## Paragraphs <a name="paragraphs"/>
+**Tag:** 
 ```
 . Paragraph: <p>...</p>
-. TODO@anhtt: update more!
 ```
+
+**Important Notes:**
+- It is block-level element.
+- The end tag can be omitted if the `<p>` element is immediately followed by some tags, such as: `<address>, <article>, <aside>, <blockquote>, <div>` ...
+
+
 ## References:
 - https://www.w3schools.com/html/default.asp
 - https://developer.mozilla.org/en-US/docs/Web/HTML
+
+
